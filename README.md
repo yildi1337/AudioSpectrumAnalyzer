@@ -8,7 +8,6 @@ The directory *processing* contains an audio spectrum analyzer test program writ
 The contents of the other directories should be self-explanatory. If you have any questions, feel free to contact me!
 
 # Video
-
 [![Video @ YouTube](http://img.youtube.com/vi/YIkxK9BZh9M/0.jpg)](http://www.youtube.com/watch?v=YIkxK9BZh9M "31+1 Channel Audio Spectrum Analyzer based on Raspberry Pi 3
 ")
 
