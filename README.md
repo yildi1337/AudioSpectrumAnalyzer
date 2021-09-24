@@ -1,4 +1,4 @@
-# AudioSpectrumAnalyzer
+# Audio Spectrum Analyzer
 31+1 Channel Audio Spectrum Analyzer based on Raspberry Pi 3
 
 ![Audio Spectrum Analyzer in Action](https://github.com/yildi1337/AudioSpectrumAnalyzer/blob/master/pictures/led_matrix_running_device.jpg)
